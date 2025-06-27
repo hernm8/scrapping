@@ -19,7 +19,7 @@ Source Link
 
 ✅ Outputs clean CSV for downstream analysis
 
-✅ Built using Selenium and BeautifulSoup
+✅ Built using Selenium
 
 ✅ Lightweight, readable, and easy to customize
 
